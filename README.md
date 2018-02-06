@@ -26,6 +26,7 @@ Problems are taken by the ones shared at:
 ## Pandas Basics
 
 **Exercise 1 (DataSet Chipole)**
+
        * What are the various columns in the data-set?
        * What is the total quantity of items ordered and the most ordered item in choice_description columns?
        * How much is the revenue for the data-set period?
@@ -33,6 +34,7 @@ Problems are taken by the ones shared at:
        * How many different items sold?
 
 **Exercise 2 (DataSet Occupation)**
+
        * How is the data-set indexed?
        * How many different occuptions are present and which is the most frequent?
 
