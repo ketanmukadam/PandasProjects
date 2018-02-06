@@ -11,7 +11,7 @@ Problems are taken by the ones shared at:
 * [justmarkham](https://github.com/justmarkham/DAT8)
 
 | Section | Problem Description | Solution |
---------------------------------------------
+----------|---------------------|----------|
 | Pandas Basics | Data Reading & Cleaning | |
 | Pandas Advanced | Data Manipulation | |
 | Super Advacned | Visualization | |
