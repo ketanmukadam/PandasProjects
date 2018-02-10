@@ -32,6 +32,7 @@ Problems are taken by the ones shared at:
        * How much is the revenue for the data-set period?
        * What is the average amount per order?
        * How many different items sold?
+[Solution](https://github.com/ketanmukadam/PandasProjects/blob/master/Exercise1_Chipotle.ipynb)
 
 **Exercise 2 (DataSet Occupation)**
 
