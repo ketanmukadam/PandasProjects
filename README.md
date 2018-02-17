@@ -38,6 +38,8 @@ Problems are taken by the ones shared at:
 
        * How is the data-set indexed?
        * How many different occuptions are present and which is the most frequent?
+       
+[Solution](https://github.com/ketanmukadam/PandasProjects/blob/master/Exercise2_Occupation.ipynb)
 
 **Exercise 3 (DataSet World Food Facts)**
           
