@@ -38,11 +38,18 @@ Problems are taken by the ones shared at:
 
        * How is the data-set indexed?
        * How many different occuptions are present and which is the most frequent?
+       * Find the mean age and lowest age in the dataset?
        
 [Solution](https://github.com/ketanmukadam/PandasProjects/blob/master/Exercise2_Occupation.ipynb)
 
 **Exercise 3 (DataSet World Food Facts)**
-          
+
+       * How is the data-set indexed?
+       * How many observations are in the data-set?
+       * Print the name of columns?
+       * What is the product name of 19th observation?
+
+[Solution](https://github.com/ketanmukadam/PandasProjects/blob/master/Exercise3_FoodFacts.ipynb)
  
 ## Pandas Advanced
 
