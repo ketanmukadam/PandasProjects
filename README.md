@@ -18,11 +18,11 @@ Problems are taken by the ones shared at:
 
 ## Data Sets Used
 |---------------------------------------------------------------------------------------|
-| [Chipole](https://raw.githubusercontent.com/justmarkham/DAT8/master/data/chipotle.tsv)|
-| [Occupation](https://raw.githubusercontent.com/justmarkham/DAT8/master/data/u.user)|
-| [World Food Facts](http://world.openfoodfacts.org/data/en.openfoodfacts.org.products.csv)|
+| [Chipole](https://raw.githubusercontent.com/justmarkham/DAT8/master/data/chipotle.tsv) |
+| [Occupation](https://raw.githubusercontent.com/justmarkham/DAT8/master/data/u.user) |
+| [World Food Facts](http://world.openfoodfacts.org/data/en.openfoodfacts.org.products.csv) |
 | [Euro12](https://raw.githubusercontent.com/jokecamp/FootballData/master/Euro%202012/Euro%202012%20stats%20TEAM.csv) |
-| [StudentAlcoholConsumption](https://github.com/guipsamora/pandas_exercises/blob/master/04_Apply/Students_Alcohol_Consumption/student-mat.csv)|
+| [StudentAlcoholConsumption](https://github.com/guipsamora/pandas_exercises/blob/master/04_Apply/Students_Alcohol_Consumption/student-mat.csv) |
 
 ## Pandas Basics
 
