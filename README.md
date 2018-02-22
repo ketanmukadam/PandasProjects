@@ -17,7 +17,6 @@ Problems are taken by the ones shared at:
 | Super Advacned | Visualization | |
 
 ## Data Sets Used
-|---------------------------------------------------------------------------------------|
 | [Chipole](https://raw.githubusercontent.com/justmarkham/DAT8/master/data/chipotle.tsv) |
 | [Occupation](https://raw.githubusercontent.com/justmarkham/DAT8/master/data/u.user) |
 | [World Food Facts](http://world.openfoodfacts.org/data/en.openfoodfacts.org.products.csv) |
