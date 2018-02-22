@@ -17,6 +17,7 @@ Problems are taken by the ones shared at:
 | Super Advacned | Visualization | |
 
 ## Data Sets Used
+| |
 | [Chipole](https://raw.githubusercontent.com/justmarkham/DAT8/master/data/chipotle.tsv) |
 | [Occupation](https://raw.githubusercontent.com/justmarkham/DAT8/master/data/u.user) |
 | [World Food Facts](http://world.openfoodfacts.org/data/en.openfoodfacts.org.products.csv) |
@@ -26,16 +27,16 @@ Problems are taken by the ones shared at:
 ## Pandas Basics
 
 **Exercise 1 (DataSet Chipole)**
-[Solution](https://github.com/ketanmukadam/PandasProjects/blob/master/Exercise1_Chipotle.ipynb)
+[Link](https://github.com/ketanmukadam/PandasProjects/blob/master/Exercise1_Chipotle.ipynb)
 
 **Exercise 2 (DataSet Occupation)**
-[Solution](https://github.com/ketanmukadam/PandasProjects/blob/master/Exercise2_Occupation.ipynb)
+[Link](https://github.com/ketanmukadam/PandasProjects/blob/master/Exercise2_Occupation.ipynb)
 
 **Exercise 3 (DataSet World Food Facts)**
-[Solution](https://github.com/ketanmukadam/PandasProjects/blob/master/Exercise3_FoodFacts.ipynb)
+[Link](https://github.com/ketanmukadam/PandasProjects/blob/master/Exercise3_FoodFacts.ipynb)
 
 **Exercise 4 (DataSet Chipole)**
-[Solution](https://github.com/ketanmukadam/PandasProjects/blob/master/Exercise4_Chipotle.ipynb)
+[Link](https://github.com/ketanmukadam/PandasProjects/blob/master/Exercise4_Chipotle.ipynb)
 
 
 ## Pandas Advanced
