@@ -26,31 +26,18 @@ Problems are taken by the ones shared at:
 ## Pandas Basics
 
 **Exercise 1 (DataSet Chipole)**
-
-       * What are the various columns in the data-set?
-       * What is the total quantity of items ordered and the most ordered item in choice_description columns?
-       * How much is the revenue for the data-set period?
-       * What is the average amount per order?
-       * How many different items sold?
 [Solution](https://github.com/ketanmukadam/PandasProjects/blob/master/Exercise1_Chipotle.ipynb)
 
-**Exercise 2 (DataSet Occupation)**
-
-       * How is the data-set indexed?
-       * How many different occuptions are present and which is the most frequent?
-       * Find the mean age and lowest age in the dataset?
-       
+**Exercise 2 (DataSet Occupation)**   
 [Solution](https://github.com/ketanmukadam/PandasProjects/blob/master/Exercise2_Occupation.ipynb)
 
 **Exercise 3 (DataSet World Food Facts)**
-
-       * How is the data-set indexed?
-       * How many observations are in the data-set?
-       * Print the name of columns?
-       * What is the product name of 19th observation?
-
 [Solution](https://github.com/ketanmukadam/PandasProjects/blob/master/Exercise3_FoodFacts.ipynb)
- 
+
+**Exercise 4 (DataSet Chipole)**
+[Solution](https://github.com/ketanmukadam/PandasProjects/blob/master/Exercise4_Chipotle.ipynb)
+
+
 ## Pandas Advanced
 
 ## Super Advacned
