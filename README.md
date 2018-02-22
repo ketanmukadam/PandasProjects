@@ -38,7 +38,8 @@ Problems are taken by the ones shared at:
 **Exercise 4 (DataSet Chipole)**
 [Link](https://github.com/ketanmukadam/PandasProjects/blob/master/Exercise4_Chipotle.ipynb)
 
-
+**Exercise 5 (DataSet Euro12)**
+[Link](https://github.com/ketanmukadam/PandasProjects/blob/master/Exercise5_Euro12.ipynb)
 ## Pandas Advanced
 
 ## Super Advacned
