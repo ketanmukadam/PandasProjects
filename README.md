@@ -17,7 +17,8 @@ Problems are taken by the ones shared at:
 | Super Advacned | Visualization | |
 
 ## Data Sets Used
-| |
+
+| ---- | 
 | [Chipole](https://raw.githubusercontent.com/justmarkham/DAT8/master/data/chipotle.tsv) |
 | [Occupation](https://raw.githubusercontent.com/justmarkham/DAT8/master/data/u.user) |
 | [World Food Facts](http://world.openfoodfacts.org/data/en.openfoodfacts.org.products.csv) |
@@ -40,6 +41,11 @@ Problems are taken by the ones shared at:
 
 **Exercise 5 (DataSet Euro12)**
 [Link](https://github.com/ketanmukadam/PandasProjects/blob/master/Exercise5_Euro12.ipynb)
+
+**Exercise 6 (DataSet Army)**
+[Link](https://github.com/ketanmukadam/PandasProjects/blob/master/Exercise6_Army.ipynb)
+
+
 ## Pandas Advanced
 
 ## Super Advacned
