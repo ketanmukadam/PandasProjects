@@ -46,6 +46,9 @@ Problems are taken by the ones shared at:
 **Exercise 6 (DataSet Army)**
 [Link](https://github.com/ketanmukadam/PandasProjects/blob/master/Exercise6_Army.ipynb)
 
+**Exercise 7 (DataSet Alcohol Consumption)**
+[Link](https://github.com/ketanmukadam/PandasProjects/blob/master/Exercise7_Alcohol_Consumption.ipynb)
+
 
 ## Pandas Advanced
 
