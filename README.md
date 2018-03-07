@@ -49,6 +49,9 @@ Problems are taken by the ones shared at:
 **Exercise 7 (DataSet Alcohol Consumption)**
 [Link](https://github.com/ketanmukadam/PandasProjects/blob/master/Exercise7_Alcohol_Consumption.ipynb)
 
+**Exercise 8 (DataSet Occupation)**
+[Link](https://github.com/ketanmukadam/PandasProjects/blob/master/Exercise8_Occupation.ipynb)
+
 
 ## Pandas Advanced
 
