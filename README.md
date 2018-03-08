@@ -52,6 +52,9 @@ Problems are taken by the ones shared at:
 **Exercise 8 (DataSet Occupation)**
 [Link](https://github.com/ketanmukadam/PandasProjects/blob/master/Exercise8_Occupation.ipynb)
 
+**Exercise 8 (DataSet Occupation)**
+[Link](https://github.com/ketanmukadam/PandasProjects/blob/master/Exercise9_Regiment.ipynb)
+
 
 ## Pandas Advanced
 
