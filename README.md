@@ -28,8 +28,18 @@ Problems are taken by the ones shared at:
 
 ## Pandas Basics
 
-**Exercise 1 (DataSet Chipole)**
-[Link](https://github.com/ketanmukadam/PandasProjects/blob/master/Exercise1_Chipotle.ipynb)
+| Exercise | Data Set | Solution |
+----------|---------------------|----------|
+| 1 | Chipole | [Link](https://github.com/ketanmukadam/PandasProjects/blob/master/Exercise1_Chipotle.ipynb) |
+| 2 | Occupation | [Link](https://github.com/ketanmukadam/PandasProjects/blob/master/Exercise2_Occupation.ipynb) |
+| 3 | World Food Facts | [Link](https://github.com/ketanmukadam/PandasProjects/blob/master/Exercise3_FoodFacts.ipynb) |
+| 4 | Chipole | [Link](https://github.com/ketanmukadam/PandasProjects/blob/master/Exercise4_Chipotle.ipynb) |
+| 5 | Euro12 | [Link](https://github.com/ketanmukadam/PandasProjects/blob/master/Exercise5_Euro12.ipynb) |
+| 6 | Army | [Link](https://github.com/ketanmukadam/PandasProjects/blob/master/Exercise6_Army.ipynb) |
+| 7 | Alcohol Consumption | [Link](https://github.com/ketanmukadam/PandasProjects/blob/master/Exercise7_Alcohol_Consumption.ipynb) |
+| 8 | Occupation | [Link](https://github.com/ketanmukadam/PandasProjects/blob/master/Exercise8_Occupation.ipynb) |
+| 9 | Regiment | [Link](https://github.com/ketanmukadam/PandasProjects/blob/master/Exercise9_Regiment.ipynb) |
+| 10 | Alcohol Consumption | [Link](https://github.com/ketanmukadam/PandasProjects/blob/master/Exercise10_StudentAlcohol.ipynb) |
 
 **Exercise 2 (DataSet Occupation)**
 [Link](https://github.com/ketanmukadam/PandasProjects/blob/master/Exercise2_Occupation.ipynb)
