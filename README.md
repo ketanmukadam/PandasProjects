@@ -55,6 +55,10 @@ Problems are taken by the ones shared at:
 **Exercise 9 (DataSet Regiment)**
 [Link](https://github.com/ketanmukadam/PandasProjects/blob/master/Exercise9_Regiment.ipynb)
 
+**Exercise 10 (DataSet Alcohol Consumption)**
+[Link](https://github.com/ketanmukadam/PandasProjects/blob/master/Exercise10_StudentAlcohol.ipynb)
+
+
 
 ## Pandas Advanced
 
