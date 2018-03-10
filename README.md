@@ -40,7 +40,7 @@ Problems are taken by the ones shared at:
 | 8 | Occupation | [Link](https://github.com/ketanmukadam/PandasProjects/blob/master/Exercise8_Occupation.ipynb) |
 | 9 | Regiment | [Link](https://github.com/ketanmukadam/PandasProjects/blob/master/Exercise9_Regiment.ipynb) |
 | 10 | Alcohol Consumption | [Link](https://github.com/ketanmukadam/PandasProjects/blob/master/Exercise10_StudentAlcohol.ipynb) |
-| 11 |  |  |
+| 11 | Crime Rate | [Link](https://github.com/ketanmukadam/PandasProjects/blob/master/Exercise11_CrimeRates.ipynb) |
 
 
 ## Pandas Advanced
