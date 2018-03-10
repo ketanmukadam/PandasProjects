@@ -40,34 +40,7 @@ Problems are taken by the ones shared at:
 | 8 | Occupation | [Link](https://github.com/ketanmukadam/PandasProjects/blob/master/Exercise8_Occupation.ipynb) |
 | 9 | Regiment | [Link](https://github.com/ketanmukadam/PandasProjects/blob/master/Exercise9_Regiment.ipynb) |
 | 10 | Alcohol Consumption | [Link](https://github.com/ketanmukadam/PandasProjects/blob/master/Exercise10_StudentAlcohol.ipynb) |
-
-**Exercise 2 (DataSet Occupation)**
-[Link](https://github.com/ketanmukadam/PandasProjects/blob/master/Exercise2_Occupation.ipynb)
-
-**Exercise 3 (DataSet World Food Facts)**
-[Link](https://github.com/ketanmukadam/PandasProjects/blob/master/Exercise3_FoodFacts.ipynb)
-
-**Exercise 4 (DataSet Chipole)**
-[Link](https://github.com/ketanmukadam/PandasProjects/blob/master/Exercise4_Chipotle.ipynb)
-
-**Exercise 5 (DataSet Euro12)**
-[Link](https://github.com/ketanmukadam/PandasProjects/blob/master/Exercise5_Euro12.ipynb)
-
-**Exercise 6 (DataSet Army)**
-[Link](https://github.com/ketanmukadam/PandasProjects/blob/master/Exercise6_Army.ipynb)
-
-**Exercise 7 (DataSet Alcohol Consumption)**
-[Link](https://github.com/ketanmukadam/PandasProjects/blob/master/Exercise7_Alcohol_Consumption.ipynb)
-
-**Exercise 8 (DataSet Occupation)**
-[Link](https://github.com/ketanmukadam/PandasProjects/blob/master/Exercise8_Occupation.ipynb)
-
-**Exercise 9 (DataSet Regiment)**
-[Link](https://github.com/ketanmukadam/PandasProjects/blob/master/Exercise9_Regiment.ipynb)
-
-**Exercise 10 (DataSet Alcohol Consumption)**
-[Link](https://github.com/ketanmukadam/PandasProjects/blob/master/Exercise10_StudentAlcohol.ipynb)
-
+| 11 |  |  |
 
 
 ## Pandas Advanced
