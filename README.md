@@ -46,4 +46,8 @@ Problems are taken by the ones shared at:
 
 ## Pandas Advanced
 
+| Exercise | Data Set | Solution |
+----------|---------------------|----------|
+| 1 | Baby Names | [Link](https://github.com/ketanmukadam/PandasProjects/blob/master/Exercise14_BabyNames.ipynb) |
+
 ## Super Advacned
