@@ -42,7 +42,7 @@ Problems are taken by the ones shared at:
 | 10 | Alcohol Consumption | [Link](https://github.com/ketanmukadam/PandasProjects/blob/master/Exercise10_StudentAlcohol.ipynb) |
 | 11 | Crime Rate | [Link](https://github.com/ketanmukadam/PandasProjects/blob/master/Exercise11_CrimeRates.ipynb) |
 | 12 | MPG Cars | [Link](https://github.com/ketanmukadam/PandasProjects/blob/master/Exercise12_MPGCars.ipynb) |
-
+| 13 | House Markets | [Link](https://github.com/ketanmukadam/PandasProjects/blob/master/Exercise13_HouseMarket.ipynb) |
 
 ## Pandas Advanced
 
