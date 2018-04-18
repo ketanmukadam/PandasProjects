@@ -49,5 +49,5 @@ Problems are taken by the ones shared at:
 | Exercise | Data Set | Solution |
 ----------|---------------------|----------|
 | 1 | Baby Names | [Link](https://github.com/ketanmukadam/PandasProjects/blob/master/Exercise14_BabyNames.ipynb) |
-
+| 2 | Wind Stats | [Link](https://github.com/ketanmukadam/PandasProjects/blob/master/Exercise15_WindStats.ipynb) |
 ## Super Advacned
