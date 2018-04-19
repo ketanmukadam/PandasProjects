@@ -50,4 +50,5 @@ Problems are taken by the ones shared at:
 ----------|---------------------|----------|
 | 1 | Baby Names | [Link](https://github.com/ketanmukadam/PandasProjects/blob/master/Exercise14_BabyNames.ipynb) |
 | 2 | Wind Stats | [Link](https://github.com/ketanmukadam/PandasProjects/blob/master/Exercise15_WindStats.ipynb) |
+| 3 | Chipole    | [Link](https://github.com/ketanmukadam/PandasProjects/blob/master/Exercise16_Chipole.ipynb)   |
 ## Super Advacned
