@@ -52,4 +52,5 @@ Problems are taken by the ones shared at:
 | 2 | Wind Stats | [Link](https://github.com/ketanmukadam/PandasProjects/blob/master/Exercise15_WindStats.ipynb) |
 | 3 | Chipole    | [Link](https://github.com/ketanmukadam/PandasProjects/blob/master/Exercise16_Chipole.ipynb)   |
 | 4 | Titanic    | [Link](https://github.com/ketanmukadam/PandasProjects/blob/master/Exercise17_Titanic.ipynb)   |
+| 5 | Scores     | [Link](https://github.com/ketanmukadam/PandasProjects/blob/master/Exercise18_Scores.ipynb)    |
 ## Super Advacned
