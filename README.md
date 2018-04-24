@@ -53,4 +53,5 @@ Problems are taken by the ones shared at:
 | 3 | Chipole    | [Link](https://github.com/ketanmukadam/PandasProjects/blob/master/Exercise16_Chipole.ipynb)   |
 | 4 | Titanic    | [Link](https://github.com/ketanmukadam/PandasProjects/blob/master/Exercise17_Titanic.ipynb)   |
 | 5 | Scores     | [Link](https://github.com/ketanmukadam/PandasProjects/blob/master/Exercise18_Scores.ipynb)    |
+| 6 | Online Retail | [Link](https://github.com/ketanmukadam/PandasProjects/blob/master/Exercise19_OnlineRetail.ipynb)    |
 ## Super Advacned
