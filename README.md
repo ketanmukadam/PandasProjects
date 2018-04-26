@@ -56,5 +56,5 @@ Problems are taken by the ones shared at:
 | 5 | Scores     | [Link](https://github.com/ketanmukadam/PandasProjects/blob/master/Exercise18_Scores.ipynb)    |
 | 6 | Online Retail | [Link](https://github.com/ketanmukadam/PandasProjects/blob/master/Exercise19_OnlineRetail.ipynb)    |
 | 7 | Tips | [Link](https://github.com/ketanmukadam/PandasProjects/blob/master/Exercise20_Tips.ipynb)    |
-
+| 8 | Apple Stock | [Link](https://github.com/ketanmukadam/PandasProjects/blob/master/Exercise22_AppleStock.ipynb) |
 ## Super Advacned
