@@ -58,4 +58,5 @@ Problems are taken by the ones shared at:
 | 7 | Tips | [Link](https://github.com/ketanmukadam/PandasProjects/blob/master/Exercise20_Tips.ipynb)    |
 | 8 | Apple Stock | [Link](https://github.com/ketanmukadam/PandasProjects/blob/master/Exercise22_AppleStock.ipynb) |
 | 9 | Get Fin Data | [Link](https://github.com/ketanmukadam/PandasProjects/blob/master/Exercise23_GetFinData.ipynb) |
+| 10 | Iris Data | [Link](https://github.com/ketanmukadam/PandasProjects/blob/master/Exercise24_Iris.ipynb) |
 ## Super Advacned
